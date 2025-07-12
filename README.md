@@ -1,3 +1,3 @@
 # Beauty-Bliss
 
-Beauty Bliss 
+Beauty Bliss Academy 
