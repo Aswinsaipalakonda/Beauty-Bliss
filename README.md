@@ -4,4 +4,4 @@ Beauty Bliss Academy is a free learning beauty course
 
 # Design
 
-This is a sleek and minimalistic desig
+a sleek and minimalistic desig
