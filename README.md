@@ -2,6 +2,6 @@
 
 Beauty Bliss Academy is a free learning beauty course
 
-Edi cheste dabbulu vastay andhuke 
+Edi cheste dabbulu vastay andhuke chestunna 
 
 # Design
