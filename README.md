@@ -2,5 +2,5 @@
 
 Beauty Bliss Academy is a free learning beauty course
 
-Where all
+Where all get c
 # Design
