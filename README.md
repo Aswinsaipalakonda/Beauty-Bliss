@@ -2,5 +2,5 @@
 
 Beauty Bliss Academy is a free learning beauty course
 
-Where all get course by me and 
+Where all get course by me
 # Design
