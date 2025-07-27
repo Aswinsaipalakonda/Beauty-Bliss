@@ -1,5 +1,6 @@
 # Beauty-Bliss
 
 Beauty Bliss Academy is a free learning beauty course
-Where
+
+Where all
 # Design
