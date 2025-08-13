@@ -4,4 +4,3 @@ Beauty Bliss Academy is a free learning beauty course
 
 # Design
 
-H
