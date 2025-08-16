@@ -3,4 +3,4 @@
 Beauty Bliss Academy is a free learning course
 
 ## Done
-Maked the UI design 
+Maked the UI des
