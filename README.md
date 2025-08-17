@@ -1,3 +1,3 @@
 # Beauty-Bliss
 
-Beauty Bliss Academy is a free learning cour
+Beauty Bliss Academy is a free learning cours
